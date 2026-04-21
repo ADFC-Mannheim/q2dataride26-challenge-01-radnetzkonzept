@@ -26,6 +26,6 @@ sinnvoll definiert und dargestellt?
 - Virtuelles Durchfahren der Routen mit Street-View und/oder Satellitenbild
 - Kategorisierung von Abschnitten nach den Prüfkriterien
 - Erarbeitung von Verbesserungsvorschlägen
-- Abgleich mit Masterplan Mobilität 2035+ Seiten 112 - 121 https://nc.fahrradstadt-mannheim.de/index.php/s/QBT9c4d44e2ZPs2
+- Abgleich mit Masterplan Mobilität 2035+ Seiten 112 - 121
 - Visualisierung & Präsentation
 - Sicherung und möglichst systematische Aufbereitung der Ergebnisse in leicht verständlicher Form an die Adressaten Öffentlichkeit und Verwaltung

@@ -18,6 +18,7 @@ sinnvoll definiert und dargestellt?
 - Eigene Erfahrungen/Fotos
 - [Radnetz Kategorien Stadt Mannheim](https://nc.fahrradstadt-mannheim.de/index.php/s/sWXLRpKKFQ7DfSq)
 - [Masterplan Mobilität 2035+ Seiten 112 - 121](https://nc.fahrradstadt-mannheim.de/index.php/s/QBT9c4d44e2ZPs2)
+- [Mobilitätsportal Stadt Mannheim](https://gis-mannheim.de/mannheim_mobi/)
 
 ## Aufgabenstellungen
 

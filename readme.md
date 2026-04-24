@@ -13,12 +13,15 @@ sinnvoll definiert und dargestellt?
 
 ## Datengrundlagen
 
-- Google Maps / Google Street-View
-- Apple Karten 
+- OpenStreetMap ([Panoramax](https://panoramax.fr/#focus=pic&map=17/48.857143/2.29424&pic=40036f4e-d266-48e1-948d-0f0fa3ce681e&speed=250&xyz=56.00/0.00/30) / [Mapillary](https://www.mapillary.com/) )
+- Apple Karten
+- Google Street View
 - Eigene Erfahrungen/Fotos
 - [Radnetz Kategorien Stadt Mannheim](https://nc.fahrradstadt-mannheim.de/index.php/s/sWXLRpKKFQ7DfSq) Die in diesem Dokument verwendeten Farbe (orange, blau, rot, schwarz) definieren das in der [Ergebnistabelle](https://cryptpad.fr/sheet/#/2/sheet/edit/v+R-r-nxt0FZk9XiKwWiEEut/)verwendete Blatt.
 - [Masterplan Mobilität 2035+ Seiten 112 - 121](https://nc.fahrradstadt-mannheim.de/index.php/s/QBT9c4d44e2ZPs2)
 - [Mobilitätsportal Stadt Mannheim](https://gis-mannheim.de/mannheim_mobi/)
+- [OpenBikeSensor](https://obs.adfc-bw.de/map#13.55/49.48943062341781/8.466974763180687) Visualisierung Mannheim
+- [SimRa](https://simra-project.github.io/map.html?region=mannheim) (Tracking Daten zu Vorkommnissen auf Radfahrten)
 
 ## Aufgabenstellungen
 

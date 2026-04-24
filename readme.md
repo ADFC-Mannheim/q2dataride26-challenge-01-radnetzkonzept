@@ -30,6 +30,6 @@ sinnvoll definiert und dargestellt?
 - Visualisierung & Präsentation
 - Sicherung und möglichst systematische Aufbereitung der Ergebnisse in leicht verständlicher Form an die Adressaten Öffentlichkeit und Verwaltung
 
-##Ergebnistabelle
+## Ergebnistabelle
 
 Ergebnisse nach Weg-Kategorie (orange, blau rot, schwarz) wie im Radnetzplan der Stadt Mannheim verwendet sammeln wir im [Cryptpad](https://cryptpad.fr/sheet/#/2/sheet/edit/v+R-r-nxt0FZk9XiKwWiEEut/)

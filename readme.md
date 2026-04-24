@@ -16,7 +16,7 @@ sinnvoll definiert und dargestellt?
 - Google Maps / Google Street-View
 - Apple Karten 
 - Eigene Erfahrungen/Fotos
-- [Radnetz Kategorien Stadt Mannheim](https://nc.fahrradstadt-mannheim.de/index.php/s/sWXLRpKKFQ7DfSq)
+- [Radnetz Kategorien Stadt Mannheim](https://nc.fahrradstadt-mannheim.de/index.php/s/sWXLRpKKFQ7DfSq) Die in diesem Dokument verwendeten Farbe (orange, blau, rot, schwarz) definieren das in der [Ergebnistabelle](https://cryptpad.fr/sheet/#/2/sheet/edit/v+R-r-nxt0FZk9XiKwWiEEut/)verwendete Blatt.
 - [Masterplan Mobilität 2035+ Seiten 112 - 121](https://nc.fahrradstadt-mannheim.de/index.php/s/QBT9c4d44e2ZPs2)
 - [Mobilitätsportal Stadt Mannheim](https://gis-mannheim.de/mannheim_mobi/)
 
@@ -34,3 +34,5 @@ sinnvoll definiert und dargestellt?
 ## Ergebnistabelle
 
 Ergebnisse nach Weg-Kategorie (orange, blau rot, schwarz) wie im Radnetzplan der Stadt Mannheim verwendet sammeln wir im [Cryptpad](https://cryptpad.fr/sheet/#/2/sheet/edit/v+R-r-nxt0FZk9XiKwWiEEut/)
+
+Problemstellen aus der Ergebnistabelle können über den [RadMELDER](https://melder.radroutenplaner-bw.de/) an das Verkehrsministerium Baden-Württemberg gemeldet werden.
